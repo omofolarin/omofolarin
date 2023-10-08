@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [folarinshonibare.com/posts](folarinshonibare.com/posts)
 
-- 💬 Ask me about **React, Material UI, React-Native, Rust, Blockchain**
+- 💬 Ask me about **Nodejs, React, Material UI, React-Native, Flutter, SwiftUI, and Rust**
 
 - 📫 How to reach me **folarinshonibare@gmail.com or [Whatsapp](https://api.whatsapp.com/send/?phone=%2B2349083494644&text&app_absent=0)**
 
