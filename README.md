@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omofolarin</h1>
 <h3 align="center">A passionate Software engineer and Product developer from Nigeria</h3>
 
-- 👯 I'm available for collaborations on **Typescript, Rust and PHP projects**
+- 👯 I'm available for collaborations on **web, mobile and system design projects**
 
 - 📝 I regularly write articles on [folarinshonibare.com/posts](folarinshonibare.com/posts)
 
